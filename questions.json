@@ -1,0 +1,62 @@
+[
+  {
+      "questionNo": "Q1",
+      "question": "In a triangle, if one angle measures 90° and another angle measures 45°, what is the measure of the third angle x?",
+      "options": [
+          "45°",
+          "60°",
+          "35°",
+          "90°"
+      ],
+      "correct": 0,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+      "questionNo": "Q2",
+      "question": "If two angles of a triangle are 45° and 55°, what is the third angle x?",
+      "options": [
+          "80°",
+          "100°",
+          "90°",
+          "110°"
+      ],
+      "correct": 0,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+      "questionNo": "Q3",
+      "question": "In a triangle, if one angle is 60° and another angle is 40°, what is the measure of the third angle?",
+      "options": [
+          "45°",
+          "60°",
+          "50°",
+          "80°"
+      ],
+      "correct": 3,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+      "questionNo": "Q4",
+      "question": "In a right-angled triangle, if one of the non-right angles is 35°, what is the measure of the other non-right angle?",
+      "options": [
+          "75°",
+          "55°",
+          "65°",
+          "45°"
+      ],
+      "correct": 1,
+      "img": "./assests/images/4.jpg"
+  },
+  {
+      "questionNo": "Q5",
+      "question": "In any triangle, which statement is true about the sides?",
+      "options": [
+          "The length of one side is less than the sum of the other two sides.",
+          "The length of one side is equal to the sum of the other two sides.",
+          "The length of one side is greater than the sum of the other two sides.",
+          "The length of one side is less than the difference of the other two sides."
+      ],
+      "correct": 0,
+      "img": "./assests/images/5.jpg"
+  }
+]
